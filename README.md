@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQHftFtKL-Zt9w/profile-displaybackgroundimage-shrink_350_1400/0/1601458422172?e=1707350400&v=beta&t=_FFvxnOUUc-r5I_syynOTvo2jUIfCAWkZ3FZ360jBXQ)
+![MasterHead](https://media.licdn.com/dms/image/C5616AQHftFtKL-Zt9w/profile-displaybackgroundimage-shrink_350_1400/0/1601458422172?e=1707350400&v=beta&t=_FFvxnOUUc-r5I_syynOTvo2jUIfCAWkZ3FZ360jBXQ)
 <h1 align="center">Hi 👋, I'm Abu Saleh Md Nakib Uddin</h1>
 <h3 align="center">A passionate researcher and learner</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/format:webp/1*yd9YMy2pkzCY-9jrsWFesA.gif">
