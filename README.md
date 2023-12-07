@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dddd" height="30" width="40" /></a>
-<a href="https://kaggle.com/,,,/sx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt=",,,/sx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-saleh-md-nakib-uddin" height="30" width="40" /></a>
+<a href="https://kaggle.com/,,,/sx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abusalehmdnakibuddin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
